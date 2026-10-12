@@ -231,9 +231,9 @@ Thumbs.db
 ~$*.xlsx
 ~$*.xls
 
-# Database dumps (simpan script schema/query saja, bukan dump penuh)
+# Database dumps
 *.dump
 *.bak
 
-# Raw data (aktifkan baris ini jika lisensi dataset tidak jelas)
+# Raw data
 # data/raw/
