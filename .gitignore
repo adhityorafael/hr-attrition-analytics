@@ -218,3 +218,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Credentials & environment
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Excel temporary/lock files
+~$*.xlsx
+~$*.xls
+
+# Database dumps (simpan script schema/query saja, bukan dump penuh)
+*.dump
+*.bak
+
+# Raw data (aktifkan baris ini jika lisensi dataset tidak jelas)
+# data/raw/
